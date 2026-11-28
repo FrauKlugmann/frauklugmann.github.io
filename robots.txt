@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /elterninfo.html
+Allow: /elterninfo.mp4
+Allow: /elterninfo-vorschau.jpg
+Disallow: /
